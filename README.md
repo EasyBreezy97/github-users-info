@@ -1,10 +1,3 @@
-## Starter Project
-
-- css provided (global styles, styled components)
-- folders/files already setup
-- all imports included (warnings)
-- index.js for easier imports
-
 ## Styled Components
 
 [Styled-Components - Main Docs](https://styled-components.com/)
@@ -113,3 +106,6 @@ package.json
 ```
 
 [create-react-app Warning Fix Blog Post](https://community.netlify.com/t/how-to-fix-build-failures-with-create-react-app-in-production/17752)
+
+
+#### Created from Coding Addict [tutorial](https://www.youtube.com/watch?v=dR_Fol8nAzo&list=WL&index=17&t=0s)
